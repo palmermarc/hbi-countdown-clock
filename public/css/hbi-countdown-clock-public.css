@@ -1,0 +1,6 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+#hbi-countdown-bin { background-color: #000; cursor: pointer; height: 55px; position: relative; width: 100%; }
+#hbi-countdown-clock { margin-right: 30px; position: absolute; right: 0; top: 10px; }

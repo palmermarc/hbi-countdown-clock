@@ -1,0 +1,10 @@
+/**
+ * All of the CSS for your dashboard-specific functionality should be
+ * included in this file.
+ */
+
+#add_another_row { color: blue; cursor: pointer; font-weight: bold; }
+.remove_image_size { color: red; cursor: pointer; }
+label { display: block; font-weight: bold; }
+.use_countdown_link { display: none; }
+.use_countdown_link.active{ display: block; }
